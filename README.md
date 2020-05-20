@@ -1,3 +1,3 @@
 # Deep-Learning-
 
-Projects and assignments from `Deep-Learning` specialization in Coursera.
+Projects and assignments from `Deep-Learning specialization in Coursera`.
